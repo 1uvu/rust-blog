@@ -1,49 +1,5 @@
 # Markdown语法测试
 
-- 目录
-
-  - [一.分级目录](https://guo365.github.io/study/Markdown.html#1)
-
-  - [二.斜体与粗体](https://guo365.github.io/study/Markdown.html#2)
-
-  - 三.超链接
-
-    - [3.1.行内式](https://guo365.github.io/study/Markdown.html#4)
-    - [3.2.参考式](https://guo365.github.io/study/Markdown.html#5)
-    - [3.3.自动连接](https://guo365.github.io/study/Markdown.html#6)
-
-  - 四.锚点
-
-    - [4.1.页内超链接](https://guo365.github.io/study/Markdown.html#8)
-    - [4.2.文章内部标题链接](https://guo365.github.io/study/Markdown.html#9)
-
-  - 五.列表
-
-    - [5.1.无需列表](https://guo365.github.io/study/Markdown.html#11)
-    - [5.2.有序列表](https://guo365.github.io/study/Markdown.html#12)
-    - [5.3.定义型列表](https://guo365.github.io/study/Markdown.html#13)
-    - [5.4.列表缩进](https://guo365.github.io/study/Markdown.html#14)
-    - [5.5.包含段落的列表](https://guo365.github.io/study/Markdown.html#15)
-    - [5.6.任务列表](https://guo365.github.io/study/Markdown.html#16)
-
-  - 六.表格
-
-    - [6.1.竖杠`|`下划线`-`写法](https://guo365.github.io/study/Markdown.html#18)
-    - [6.2.html写法](https://guo365.github.io/study/Markdown.html#19)
-
-  - 七.创建和突出显示代码块
-
-    - [7.1.栅栏代码块](https://guo365.github.io/study/Markdown.html#21)
-    - [7.2.语法高亮显示](https://guo365.github.io/study/Markdown.html#22)
-    - [7.3.引用代码](https://guo365.github.io/study/Markdown.html#23)
-    - [7.4.引用文字](https://guo365.github.io/study/Markdown.html#24)
-    - [7.5.删除线](https://guo365.github.io/study/Markdown.html#25)
-
-  - 使用LaTeX方法
-
-    > **说明：本文中中语法里面的代码就是需要写的Markdown语法，展示效果就是最后生成的页面**
-    > **此语法编写和测试环境：windows上使用MarkdownPad2的GitHub离线风格的Markdown语法，使用在线风格好像不支持文章内部链接跳转**
-
 ## 一.分级目录
 
 #### 语法：
