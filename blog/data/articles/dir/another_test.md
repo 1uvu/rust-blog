@@ -26,9 +26,11 @@ MarkDown语法进阶（三）（文字居中、图片处理、插入视频音乐
 
 MarkDown语法进阶（三）（文字居中、图片处理、插入视频音乐、标准字体）
 
-3、插入音乐（网易云音乐 iframe 不生效）
+3、插入音乐（普通音乐标签不生效，网易云音乐 iframe 不生效）
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=528478901&auto=1&height=66"></iframe>
+<embed height="86" width="800" src="https://music.163.com/outchain/player?type=2&amp;id=528478901&amp;auto=1&amp;height=66"></embed>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&amp;id=528478901&amp;auto=1&amp;height=66"></iframe>
 
 4、插入视频
 
