@@ -12,7 +12,7 @@ fn main() {
 
     // Write to String buffer.
     let mut html_output = String::new();
-    html::push_html(& mut html_output, parser);
+    html::push_html(&mut html_output, parser);
 
     println!("{:?}", html_output);
 
