@@ -105,7 +105,6 @@ impl MyHandler{
                                 + &self.article_prefix
                                 + "/"
                                 + &regulate_link((web_path.to_str().unwrap().to_string()
-                                + "/"
                                 + p.file_name().to_string_lossy().into_owned().as_str()).as_str()),
                         }
                     } else {
@@ -116,7 +115,6 @@ impl MyHandler{
                                 + &self.article_prefix
                                 + "/"
                                 + regulate_link(web_path.to_str().unwrap()).as_str()
-                                + "/"
                                 + p.file_name().to_string_lossy().into_owned().as_str(),
                         }
                     }
